@@ -21,7 +21,7 @@
 [twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com/
-[linkedin]: https://www.linkedin.com/in/justin-williams
+[linkedin]:https://www.linkedin.com/in/justin-williams-11982a189/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
